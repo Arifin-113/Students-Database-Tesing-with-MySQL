@@ -1,4 +1,4 @@
-CREATE DATABASE students_Db;
+CREATE DATABASE db_students;
 USE db_students;
 CREATE TABLE students(
 id INT AUTO_INCREMENT PRIMARY KEY,
